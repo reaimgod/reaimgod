@@ -217,7 +217,7 @@ def menuHelp():
                 "┃📀┃ " + key + "SearchYoutube 「Search」" + "\n" + \
 				"┃📀┃〔 AKECHI CLAN 〕" + "\n" + \
 				"┃📀┃〔CREATOR 〕" + "\n" + \
-				"╰━━━〔 KING : © MITSHUDE  〕"
+				"╰━━━〔 KING : © MITSUHIDE  〕"
 	return menuHelp
 
 def menuTextToSpeech():
